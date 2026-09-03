@@ -1,0 +1,3 @@
+ssh gaetano@10.0.0.14
+
+sudo systemctl restart sddm
