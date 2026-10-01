@@ -1,0 +1,4 @@
+cd /home/gaetano/server/www/phoenix-conexus
+git add .
+git commit -m "Brief description of changes"
+git push
